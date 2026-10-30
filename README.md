@@ -1,3 +1,4 @@
-# Dynamic Programming **[ DP ]**
-## Lenguaje: C++
-![Barra de Progreso](https://progress-bar.xyz/0/?title=DP&width=200&color=brightgreen)
+# ⚙️ CSES Problem Set | C++ Solutions
+Repositorio dedicado a resolver los problemas del [CSES Problem Set](https://cses.fi/problemset/) optimizados en **C++**, con foco en algoritmos y estructuras de datos.
+## 📊 Progreso General: Dynamic Programming
+![Progreso DP](https://img.shields.io/badge/DP_Progress-0%2F19-violet?style=for-the-badge&logo=c%2B%2B&logoColor=black)
