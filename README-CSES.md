@@ -14,3 +14,17 @@ Aquí puedes ver el seguimiento del avance a través de las diferentes secciones
 | **Tree Algorithms** |  | ⏳ Pendiente | [Ver repositorio](./tree-algorithms) |
 | **String Algorithms** |  | ⏳ Pendiente | [Ver repositorio](./string-algorithms) |
 
+## 🛠️ Entorno
+
+Para el desarrollo, compilación y pruebas de los algoritmos utilizo el siguiente entorno optimizado:
+
+- **Lenguaje:** `C++20` 
+- **Compilador:** `g++` 
+- **Sistema Operativo:** Linux (Debian).
+- **Editor/IDE:** Visual Studio Code / Terminal.
+
+<br>
+
+<a href="https://github.com/SdruboliniSantino/SdruboliniSantino" target="_blank">
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</a>
